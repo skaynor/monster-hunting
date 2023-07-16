@@ -22,6 +22,8 @@ const config = {
   projectName: 'monster-hunting', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
+  trailingSlash: false,
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
