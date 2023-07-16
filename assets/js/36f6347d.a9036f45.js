@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonster_hunting=self.webpackChunkmonster_hunting||[]).push([[8005],{6639:n=>{n.exports=JSON.parse('{"label":"hola","permalink":"/monster-hunting/blog/tags/hola","allTagsPath":"/monster-hunting/blog/tags","count":1}')}}]);
