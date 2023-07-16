@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonster_hunting=self.webpackChunkmonster_hunting||[]).push([[5476],{1943:n=>{n.exports=JSON.parse('[{"label":"facebook","permalink":"/monster-hunting/blog/tags/facebook","count":1},{"label":"hello","permalink":"/monster-hunting/blog/tags/hello","count":1},{"label":"docusaurus","permalink":"/monster-hunting/blog/tags/docusaurus","count":1}]')}}]);
