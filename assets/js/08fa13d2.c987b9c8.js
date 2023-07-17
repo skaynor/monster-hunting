@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmonster_hunting=self.webpackChunkmonster_hunting||[]).push([[4774],{5965:e=>{e.exports=JSON.parse('{"permalink":"/monster-hunting/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
