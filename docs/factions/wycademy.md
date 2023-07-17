@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# The Wycademy
+# Wycademy
 
 Long ago, the village of Bherna was visited by the Royal Scribes of Palaeontology. During the visit, it was discovered the limestone formations around the village contained quantities of fossils of monsters and plants extinct today. From the Royal Paleontology Scriveners investigation and report, the scribes dispatched a small group to set up camp. Over the years scholars focused on laboratory work, leaving field work to hunters, and giving rise to the Wycademy.
 
@@ -77,8 +77,8 @@ A researcher who searches for and studies unknown, legendary, or extinct animals
 
 For you, the spells on the Wycademy Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
-<div align="center">
-<b>Wycademy Spells</b>
+
+**Wycademy Spells**
 
 | Spell   | Level Spells |
 | :---:   | :----------- |
@@ -89,8 +89,6 @@ For you, the spells on the Wycademy Spells table are added to the spell list of 
 | 4th     | *control water, leomund's secret chest* |
 | 5th     | *commune with nature, legend lore* |
 
-</div>
-
 ## Wycademy Backgrounds
 
 As your training comes to an end and your researching career begins, you must decide where your ambitions lie in your future with the Wycademy. In this section you will find a number of backgrounds based on the many employment opportunities a researcher has as their Rank increases.
@@ -99,9 +97,7 @@ No matter the background you pick, each member of the Wycademy Guild has the sam
 
 ### Feature: Magic Gathering
 
-When you attempt to gather a resource, you can use the specified cantrip from the table below to automatically succeed on the gather check, but you do not gain the effects from materials that provide additional resources from gathering when you gather resources in this way.
-
-<div align="center">
+> When you attempt to gather a resource, you can use the specified cantrip from the table below to automatically succeed on the gather check, but you do not gain the effects from materials that provide additional resources from gathering when you gather resources in this way.
 
 | Cantrip        | Resources |
 | :-----------   | :----------- |
@@ -110,10 +106,8 @@ When you attempt to gather a resource, you can use the specified cantrip from th
 | *Mold Earth*   | bones, minerals |
 | *Shape Water*  | fish |
 
-</div>
-
 :::tip
-Please review the [Faction - Wycademy](https://drive.google.com/file/d/1fMCyFskrErs4OwkJak5deKN_1xMoh3L0/view?usp=drive_link) is you want to use the Personality Trait, Ideals, Bonds, and Flaws tables. I do not feel like adding all of them to this site by hand.
+Please review the [Faction - Wycademy](https://drive.google.com/file/d/1fMCyFskrErs4OwkJak5deKN_1xMoh3L0/view?usp=drive_link) if you want to use the Personality Trait, Ideals, Bonds, and Flaws tables. I do not feel like adding all of them to this site by hand.
 :::
 
 ### Wycademy Student
@@ -127,7 +121,7 @@ As a child you were always curious about the world, whether it was exploring los
 
 #### Feature: Unrestricted Access
 
-The Wycademy possess and maintain their own restricted system of libraries which often include extremely detailed knowledge of creatures and secrets of the surrounding area. You are allowed access to these restricted areas, as well as most other major libraries as a matter of scholarly courtesy. You are also allowed lodging in many wycademy owned or sponsored schools or major sites of research as a student and pilgrim.
+> The Wycademy possess and maintain their own restricted system of libraries which often include extremely detailed knowledge of creatures and secrets of the surrounding area. You are allowed access to these restricted areas, as well as most other major libraries as a matter of scholarly courtesy. You are also allowed lodging in many wycademy owned or sponsored schools or major sites of research as a student and pilgrim.
 
 ### Wycademy Researcher
 
@@ -140,10 +134,9 @@ Having graduated from the wycademy, you chose to continue your studies dedicatin
 
 #### Feature: Research Group
 
-Your research search group is a loose network of wycademy graduates who each typically work in a different village that you share knowledge with. Their studies can help you with your hunts and investigations. You can select what you research from the Group Research table or roll randomly.
+> Your research search group is a loose network of wycademy graduates who each typically work in a different village that you share knowledge with. Their studies can help you with your hunts and investigations. You can select what you research from the Group Research table or roll randomly.
 
-<div align="center">
-<b>Group Research</b>
+**Group Research**
 
 | d8 | Research Type |
 | :- | :------------ |
@@ -156,11 +149,9 @@ Your research search group is a loose network of wycademy graduates who each typ
 | 7  | Ancient Civilization |
 | 8  | Exotic Monsters from Far Off Lands | 
 
-</div>
-
 #### Feature: Investigation
 
-Expanding the knowledge of your research is an important aspect to your job at the Wycademy. When you discover new information about a creature or resource related to your research, you can bring that information to a Wycademy owned location to receive a stipend. Discuss with your DM what that amount is and if you can make more depending on what you discover or as you level up.
+> Expanding the knowledge of your research is an important aspect to your job at the Wycademy. When you discover new information about a creature or resource related to your research, you can bring that information to a Wycademy owned location to receive a stipend. Discuss with your DM what that amount is and if you can make more depending on what you discover or as you level up.
 
 ## How do I Fit In?
 
@@ -211,23 +202,3 @@ As a famous researcher or a successful project leader, you stand ready to take o
 You are eligible to become the Director of a Wycademy institution. The selection of a new Director (in the event of an existing Speaker's retiring, dying, or otherwise leaving the position) takes place through a combination of popular election and the input of the other Wycademy Directors, with the His Immenseness having the final word. If you emerge as the victor after this rigorous process, you assume the leadership of your Wycademy and are empowered to bring its concerns before His Immenseness.
 
 You are a political leader rather than a scientific one, so you have authority over other members of the combine only if they live and work in your area. If an institution has a laboratory in your area, you have the right (and responsibility) to supervise its activities to ensure compliance with laws and regulations, but not to interfere in its research beyond that point. And if the chief researcher lives in a different area, you have no authority whatsoever over that person.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

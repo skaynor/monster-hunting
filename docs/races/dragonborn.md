@@ -85,17 +85,13 @@ A fatalis dragonborn uses the dragonborn traits in the Player's Handbook, with t
 
 - ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 - ***Elder Ancestry.*** You have advantage on saving throws against being charmed, and frightened.
-- ***Shifting Scales.*** Your scales change color daily. This determines your draconic resistance and breath weapon for the day. Each day at dawn, roll a d3 and refer to the table below to determine your scale's color.
+- ***Shifting Scales.*** Your scales change color daily. This determines your draconic resistance and breath weapon for the day. Each day at dawn, roll a d3 and refer to the table below to determine your scale's color.  
 
-<div align="center">
-
-| d3  | Color | Draconic Resistance | Breath Weapon |
+  | d3  | Color | Draconic Resistance | Breath Weapon |
 | :-: | :---: | :-----------------: | :-----------: |
 | 1   | Black | Necrotic            | Black Fire (Dex. Save) |
 | 2   | Red   | Fire                | Crimson Demon's Breath (Dex. Save) |
 | 3   | White | Lightning           | Emperor's Roar (Dex. Save) |
-
-</div>
 
 - ***Black Fire.*** When you use your breath weapon, you exhale black flames in a 15-foot cone. The damage dealt by this breath weapon is half necrotic and half fire. If the damage die is odd, the last die is dealt as necrotic damage.
 - ***Crimson Demon's Breath.*** When you use your breath weapon, you exhale black flames in a 5 by 30-foot line. The damage dealt by this breath weapon is half necrotic and half fire. If the damage die is odd, the last die is dealt as fire damage.

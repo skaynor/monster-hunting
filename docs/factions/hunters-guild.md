@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# The Hunter's Guild
+# Hunter's Guild
 
 The Hunter's Guild is the central governing body within the Monster Hunter universe. The Hunter's Guild unifies and regulates all hunting activities on which many people make their living. The guild aggregates hunting and gathering requests from far and wide, and posts them within their gathering halls and outposts throughout the land for professional hunters to undertake. These "quests" can have many purposes, including defense of citizens or towns, or research into monster anatomy and biology. The Hunter's Guild is also well-known for preventing poaching. Any unsanctioned hunting is illegal to the Hunter's Guild and can lead to a multitude of punishments, but most commonly death at the hand of a Guild Knight.
 
@@ -82,8 +82,7 @@ Each hunter is also given a Guild Card that they can customize at their own free
 
 For you, the spells on the Hunter's Guild Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
-<div align="center">
-<b>Hunter's Guild Spells</b>
+**Hunter's Guild Spells**
 
 | Spell   | Level Spells |
 | :---:   | :----------- |
@@ -94,8 +93,6 @@ For you, the spells on the Hunter's Guild Spells table are added to the spell li
 | 4th     | *elemental bane, guardian of nature* |
 | 5th     | *awaken, skill empowerment* |
 
-</div>
-
 ## Hunter's Guild Backgrounds
 
 As your training comes to an end and your adventuring career begins, you must decide where your ambitions lie in your future with the Hunter's Guild. In this section you will find a number of backgrounds based on the many employment opportunities a hunter has as their Hunter Rank increases.
@@ -104,10 +101,10 @@ No matter the background you pick, each member of the Hunter's Guild has the sam
 
 ### Feature: Guild Membership
 
-Your guild will provide you with food and accommodation if necessary. You have access to a guild hall if one is present (located in most cities, towns, and villages). The guild will support you in legal matters, so long as your rank is high enough and you are in good standing with the guild, and is a good way to gain introduction to influential members of society. Connections made through the guild for personal reasons may require a donation to the guild coffers. The guild requires dues of 5gp a month or at least one completed hunt per month.
+> Your guild will provide you with food and accommodation if necessary. You have access to a guild hall if one is present (located in most cities, towns, and villages). The guild will support you in legal matters, so long as your rank is high enough and you are in good standing with the guild, and is a good way to gain introduction to influential members of society. Connections made through the guild for personal reasons may require a donation to the guild coffers. The guild requires dues of 5gp a month or at least one completed hunt per month.
 
 :::tip
-Please review the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) is you want to use the Personality Trait, Ideals, Bonds, and Flaws tables. I do not feel like adding all of them to this site by hand.
+Please review the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) if you want to use the Personality Trait, Ideals, Bonds, and Flaws tables. I do not feel like adding all of them to this site by hand.
 :::
 
 ### Hunter Initiate

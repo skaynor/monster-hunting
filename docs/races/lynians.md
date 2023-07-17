@@ -37,16 +37,13 @@ The Boaboa have the basic shape of a Grimalkyne, but exhibit much thicker, white
 - ***Tribal Mask.*** You have a mask that is a crude imitation of a popo's head that has its tusks painted a color. Choose one color from the Popo Mask table. Your boa javelin and your gajalaka tolerance is determined by the color of the mask's accents, as shown in the table.  
 Should this mask be destroyed, you can recreate a new one during a short or long rest, but the accent color cannot change.
 
-<div align="center">
- <b>Popo Mask Table</b>
+  **Popo Mask Table**
 
-| Tusk Color  | Condition | Duration |
+  | Tusk Color  | Condition | Duration |
 | :------------ | :-------- | :------- |
 | Blue          | Blinded   | 1 minute (saving throw repeated at end of turn) |
 | Yellow        | Stunned   | Until the end of your next turn |
 | Purple        | Poisoned  | 1 minute |
-
-</div>
 
 - ***Boa Javelin.*** Your javelin’s blade is coated with a viscous liquid that is an opaque color, similar to the color of your mask’s tusks. When you hit a creature with it, they take damage as normal, but they must also make a Constitution saving throw.  
 The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. On a failed save, the creature is afflicted with the condition based on your mask's tusk color and lasts for the duration listed in the Popo Mask table.  
@@ -96,16 +93,13 @@ Gajalaka are short humanoids. They resemble Shakalaka more than Felynes or Grima
 - ***Tribal Mask.*** You have a red tribal mask that is accented by a color. Choose one color from the Tribal Mask table. Your gaja knife and your gajalaka tolerance is determined by the color of the mask's accents, as shown in the table.  
 Should this mask be destroyed, you can recreate a new one during a short or long rest, but the accent color cannot change.
 
-<div align="center">
- <b>Tribal Mask Table</b>
+  **Tribal Mask Table**
 
-| Accent Color  | Condition | Duration |
+  | Accent Color  | Condition | Duration |
 | :------------ | :-------- | :------- |
 | Blue          | Blinded   | 1 minute (saving throw repeated at end of turn) |
 | Yellow        | Stunned   | Until the end of your next turn |
 | Purple        | Poisoned  | 1 minute |
-
-</div>
 
 - ***Gaja Knife.*** Your knife is coated with viscous liquid that is an opaque color, similar to the color of your mask's accents. You're proficient with this knife, and it has the finesse and thrown property, with a normal range of 20 and a long range of 40. When you hit with a weapon attack using it, the target takes 1d4 + your Dexterity modifier as piercing damage and they must make a Constitution saving throw.  
 The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. On a failed save, the creature is afflicted with the condition based on your mask's accent color and lasts for the duration listed in the Tribal Mask table.  
