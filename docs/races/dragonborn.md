@@ -88,10 +88,10 @@ A fatalis dragonborn uses the dragonborn traits in the Player's Handbook, with t
 - ***Shifting Scales.*** Your scales change color daily. This determines your draconic resistance and breath weapon for the day. Each day at dawn, roll a d3 and refer to the table below to determine your scale's color.  
 
   | d3  | Color | Draconic Resistance | Breath Weapon |
-| :-: | :---: | :-----------------: | :-----------: |
-| 1   | Black | Necrotic            | Black Fire (Dex. Save) |
-| 2   | Red   | Fire                | Crimson Demon's Breath (Dex. Save) |
-| 3   | White | Lightning           | Emperor's Roar (Dex. Save) |
+  |  :-: | :---: | :-----------------: | :-----------: |
+  | 1   | Black | Necrotic            | Black Fire (Dex. Save) |
+  | 2   | Red   | Fire                | Crimson Demon's Breath (Dex. Save) |
+  | 3   | White | Lightning           | Emperor's Roar (Dex. Save) |
 
 - ***Black Fire.*** When you use your breath weapon, you exhale black flames in a 15-foot cone. The damage dealt by this breath weapon is half necrotic and half fire. If the damage die is odd, the last die is dealt as necrotic damage.
 - ***Crimson Demon's Breath.*** When you use your breath weapon, you exhale black flames in a 5 by 30-foot line. The damage dealt by this breath weapon is half necrotic and half fire. If the damage die is odd, the last die is dealt as fire damage.
