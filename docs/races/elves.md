@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Elves
 
 The elves were one of the first races created after the creation of the Old World. They were the first race to be created by Eldath meant to represent the beauty of nature. The elves originated in the wooded lands of the Verdant Hills, and many elves still call the forest their home. After the War of the Ancients, when the elves allied themselves with Eldath against Fatalis and its demonic horde, many of the high elf families did not return to the forest, instead choosing a new life in the city of Riveru. Even after the reemergence, Riveru was a wonderous thing of beauty. Many elven heroes and hunters originate from this city.

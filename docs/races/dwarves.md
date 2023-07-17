@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Dwarves
 
 The bold and hardy dwarves of the Old World are known as skilled warriors, miners, and workers of stone and metal. Modeled by the All-Father after the reemergence almost every dwarf in the Old World originates from Harth, a village near the Everwoods (located west of the Old World). Harth itself still stands as the central heart of dwarven society, but in the last few hundred years they have welcomed the troverians into their home. Combining their crafts, the troverians and dwarves have made a dramatic impact on a hunter's quality of life. Mountain and hill dwarves alike can be found in the many cities and locales of the Old World, but typically in small numbers. Hill dwarves are known to make above ground settlements of their own. If drawn to more dangerous pursuits, many dwarves turn to mercenary work, working with the hunters guild and wycademy in search of ancient civilization artifacts.
