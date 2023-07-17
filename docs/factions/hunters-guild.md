@@ -140,7 +140,7 @@ As a hunter, handler, guild knight, or other role, you will spend most of your t
 
 As a guild knight you are charged with enforcing the laws of the guild, on the streets or in the wilds. When you aren't off on a hunt, you most likely spend your time rooting out poachers or members of the cult of Fatalis. It is not uncommon for you to take the spotter role on a hunt
 
-### A Hunter's Guild Party 
+### A Hunter's Guild Party
 
 An adventuring party made up entirely of Hunter's Guild members could be a specialized team dedicated to the preservation of nature and society. A hunter initiate (a rogue or ranger) and a guild knight apprentice (fighter, or paladin) would form the core of the party, supported by a handler (cleric or druid) who helps direct their missions.
 
@@ -151,7 +151,6 @@ A member of the Hunter's Guild gains renown typically when they complete dangero
 ### HR 1
 
 *Prerequisite: Renown 1 or higher in the Hunter's Guild*
-
 
 Having completed your first dangerous hunt, the guild recognizes you as a true hunter. Your rank allows you to take on higher difficulty hunts and the guild provides you with a home and a modest living wage while you are in a town or village where a guild hall can be found. The guild also provides you with supplies you need to complete those missions (within reason) and access to their guild store.
 
