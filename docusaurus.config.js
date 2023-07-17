@@ -22,6 +22,9 @@ const config = {
   projectName: 'monster-hunting', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
+  // Disable the blog for now
+  // blog: false,
+
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -47,13 +50,7 @@ const config = {
           // editUrl:
           //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -79,7 +76,6 @@ const config = {
             position: 'left',
             label: 'Resources',
           },
-          {to: '/404.md', label: 'Quest Board', position: 'left'},
           {
             href: 'https://github.com/skaynor/monster-hunting/',
             label: 'GitHub',
