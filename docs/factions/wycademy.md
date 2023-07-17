@@ -77,7 +77,6 @@ A researcher who searches for and studies unknown, legendary, or extinct animals
 
 For you, the spells on the Wycademy Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
-
 **Wycademy Spells**
 
 | Spell   | Level Spells |

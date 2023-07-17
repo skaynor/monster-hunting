@@ -59,13 +59,13 @@ Junior scientists are the newest members of the Helix Commission. They are respo
 
 Consider the commission for your character if one or more of the following sentences ring true:
 
-- You want to find and fight new, interesting, and potentally challenging monsters.
+- You want to find and fight new, interesting, and potentially challenging monsters.
 - You want to help contribute to making a difference in the world, to change it in ways never seen before
 - You have a sense of duty, helping the Helix Commission create hybrid monsters is the most pragmatic way to protect against worse monsters.
 
 ## Joining the Helix Commission
 
-There are several ways to join the Commission. The main way is being recruited by the Commission themselves, as they keep an eye out for potental bright minds who might be willing to work for them. It is not uncommon for invitations to be sent out in this way. Another way would be encountering one of the escaped monsters of the commission, and helping take care of it before it could hurt others, proving their worth. The final way is being a convict of somekind, like poachers or criminals, as the commission always need expendable minions.
+There are several ways to join the Commission. The main way is being recruited by the Commission themselves, as they keep an eye out for potential bright minds who might be willing to work for them. It is not uncommon for invitations to be sent out in this way. Another way would be encountering one of the escaped monsters of the commission, and helping take care of it before it could hurt others, proving their worth. The final way is being a convict of some kind, like poachers or criminals, as the commission always need expendable minions.
 
 ## Helix Commission Spells
 
