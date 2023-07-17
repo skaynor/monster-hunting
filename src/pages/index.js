@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={'Home'}
-      description="Scrapped together Monster Hunter 5e campaign guide">
+      description="The Tale of the Five">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Monster Hunter 5e
+# How to Hunt a Monster
 
 This is a brief summary of the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) by [Amellwind](https://www.reddit.com/user/Amellwind/). 
 
