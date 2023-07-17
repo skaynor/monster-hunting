@@ -10,7 +10,7 @@ Despite being denied permission, these scientists and researchers continued thei
 
 The Helix Commission is known to experiment with genetic engineering and hybridization, and rumors persist that they are responsible for the creation of many of the subspecies of monsters that exist in the world today. Despite their secrecy, some brave hunters have managed to infiltrate the Helix Commission's lairs and retrieve valuable information about their research. But even with this knowledge, the true goals and motivations of the Helix Commission remain shrouded in mystery.
 
-## Role of the Hexlix Commission
+## Role of the Helix Commission
 
 The Helix Commission is dedicated to studying and experimenting with the creation of hybrid monsters by combining two different species. They believe that these hybrids could have incredible potential, both for scientific understanding and practical application. Their ultimate goal is to create new, more powerful species that could be harnessed to benefit humanity. However, this research is considered illegal by the Hunter's Guild and immoral by both the Royal Scriveners and Wycademy. Despite this, the Helix Commission continues to work tirelessly towards their goal of creating hybrid monsters that can benefit the world.
 
