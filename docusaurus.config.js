@@ -79,7 +79,7 @@ const config = {
             position: 'left',
             label: 'Resources',
           },
-          {to: '/blog', label: 'Quest Board', position: 'left'},
+          {to: '/404.md', label: 'Quest Board', position: 'left'},
           {
             href: 'https://github.com/skaynor/monster-hunting/',
             label: 'GitHub',
