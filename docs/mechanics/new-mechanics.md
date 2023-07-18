@@ -9,3 +9,13 @@ Monster Hunter 5e adds new mechanics both in and out of combat to facilitate the
 Additionally, methods for gathering and using resources gathered from these hunts are added to further customize and raise the power of your character.
 
 New downtime activities have been added to fill in the time between hunts, and while most of this time will also be used for progressing the story of the campaign, your character  can take use of these activities as long as they are in a area with resources to support them.
+
+
+
+
+
+
+
+:::tip
+ITEMS SHOULD BE AT THE END OF THIS CATEGORY (including combo list usage and shopping?)
+:::
