@@ -42,7 +42,7 @@ The artisan can cook a meal for the party at the start of a hunt and during a sh
 
 #### Step 1.
 
-When getting ready to cook a meal as an artisan, the first step~~ ~~is to decide on what you want to cook and ensuring you have the ingredients required for the meal. On the next page you will find a list of tables with meal names, ingredients, the DC required to cook the meal, and the boon they grant.
+When getting ready to cook a meal as an artisan, the first step is to decide on what you want to cook and ensuring you have the ingredients required for the meal. On the next page you will find a list of tables with meal names, ingredients, the DC required to cook the meal, and the boon they grant.
 
 The ingredients themselves should be easy to obtain. They might find them near the campsite as part of preparing the meal or be able to purchase them in town for under 1 sp for a portion large enough to prepare a meal for a party of four.
 
