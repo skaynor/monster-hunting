@@ -87,7 +87,7 @@ Shields in the Monster Hunter universe can only be used with a weapon that alrea
 Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor an insect glaive or a heavy bowgun, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring. There are 17 types of weapons in the Monster Hunter universe: Charge Blade, Dual Blades, Great Sword, Gunlance, Hammer, Hunting Horn, Insect Glaive, Lance, Longsword, Magnet Spike, Magus Staff, Switch Axe, Sword & Shield, Tonfas, Bow, Light Bowgun, and Heavy Bowgun. These are the only weapons available to the players and other npcs. Standard D&D weapons do not exist in this world, but their proficiencies are still used to determine which type of weapon each class can use. You can find information about each weapon’s compatible proficiencies in the weapon section of this guide.
 
 :::tip
-I will be lenient on weapon-class pairings in favor of playing both the weapon and call you want to.
+I will be lenient on weapon-class pairings in favor of playing both the weapon and class you want to.
 :::
 
 ### Unarmed Strikes
