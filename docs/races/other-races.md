@@ -20,4 +20,4 @@ Not all of the monstrous races were created in this way though, many of them wer
 There will be very few of these in the campaign, and probably none will be encounters.
 :::
 
-Now that we have covered all the races, let's determine your background by identitfying the faction you are apart of.
+Now that we have covered all the races, let's determine your background by identifying the faction you are apart of.

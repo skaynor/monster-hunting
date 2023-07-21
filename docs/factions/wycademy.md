@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Wycademy
 
-Long ago, the village of Bherna was visited by the Royal Scribes of Palaeontology. During the visit, it was discovered the limestone formations around the village contained quantities of fossils of monsters and plants extinct today. From the Royal Paleontology Scriveners investigation and report, the scribes dispatched a small group to set up camp. Over the years scholars focused on laboratory work, leaving field work to hunters, and giving rise to the Wycademy.
+Long ago, the village of Bherna was visited by the Royal Scribes of Paleontology. During the visit, it was discovered the limestone formations around the village contained quantities of fossils of monsters and plants extinct today. From the Royal Paleontology Scriveners investigation and report, the scribes dispatched a small group to set up camp. Over the years scholars focused on laboratory work, leaving field work to hunters, and giving rise to the Wycademy.
 
 ## Role of the Wycademy
 
@@ -12,7 +12,7 @@ Originally, the Wycademy was tasked with solving mysteries within the village th
 
 Being a Guild organization, it is also in charge of managing and assigning missions to the hunters who come to this region, which help the organization to obtain information about the new monsters.
 
-More secretly, the Wycademia conducts an exhaustive study of the strange variants of the monsters that have appeared all over the world, called Deviants. Since very little information is known about them and they are very dangerous, they can only be hunted by experienced hunters.
+More secretly, the Wycademy conducts an exhaustive study of the strange variants of the monsters that have appeared all over the world, called Deviants. Since very little information is known about them and they are very dangerous, they can only be hunted by experienced hunters.
 
 
 ## Hunters of the Wycademy
@@ -116,7 +116,7 @@ As a child you were always curious about the world, whether it was exploring los
 **Skill Proficiencies:** History; Choose one from Arcana, Investigation, Nature, Religion  
 **Tool Proficiency:** Choose one from: Alchemist Supplies, Calligrapher's Supplies, Herbalism Kit  
 **Languages:** One of your choice.  
-**Equipment:** Empty book, quill and ink, 3 candles, scroll case with 4 blank pieces of parchment and a few with notes and questions, one set fine robes, travelling clothes, pouch with 10gp
+**Equipment:** Empty book, quill and ink, 3 candles, scroll case with 4 blank pieces of parchment and a few with notes and questions, one set fine robes, traveling clothes, pouch with 10gp
 
 #### Feature: Unrestricted Access
 
@@ -126,7 +126,7 @@ As a child you were always curious about the world, whether it was exploring los
 
 Having graduated from the wycademy, you chose to continue your studies dedicating your life to becoming an expert in your chosen field. Now you have struck out to increase your knowledge, for good or evil, for everyone or for yourself, that is up to you to decide.
 
-- **Skill Proficiencies:** Investigation; Choose one from Animal Handling, Atheltics, History, Insight, Nature, Survival
+- **Skill Proficiencies:** Investigation; Choose one from Animal Handling, Athletics, History, Insight, Nature, Survival
 - **Tool Proficiency:** One type of artisan's tools
 - **Languages:** One of your choice.
 - **Equipment:** A bottle of black ink, a quill, a small knife, a partially filled journal filled with notes and questions you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp

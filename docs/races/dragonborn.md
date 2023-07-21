@@ -33,7 +33,7 @@ An Amatsumagatsuchi dragonborn uses the dragonborn traits in the Player's Handbo
 
 - ***Ability Score Increase.*** Your Wisdom score increases by 2, and your Dexterity score increases by 1. Draconic Resistance. You have resistance to radiant
 damage.
-- ***Elder Dragon Magic.*** You know the gust cantrip. When you reach 3rd level, you can cast the thunderwave spell once, and it recharges after a long rest. When you reach 5th level, you vcan also cast the levitate spell once, and it recharges after a long rest. Wisdom is your spellcasting ability for these
+- ***Elder Dragon Magic.*** You know the gust cantrip. When you reach 3rd level, you can cast the thunderwave spell once, and it recharges after a long rest. When you reach 5th level, you can also cast the levitate spell once, and it recharges after a long rest. Wisdom is your spellcasting ability for these
 spells. 
 - ***Glide.*** You always hover one to two inches off the ground. Moving through nonmagical difficult terrain costs you no
 extra movement.
@@ -42,7 +42,7 @@ again until you finish a long rest.
 
 ### Draconic Ancestry: Ceadeus
 
-Due to the ceadeus resemblance to giant whales, the ceadeus dragonborn's shape is portly. Both male and female prominent beards of fur and two massive horn that must be shaved down or overtake their eyes, leaving them blind. Luminous organs line the ceadeus dragonborn's belly aswell as its apendages, which turn from blue to red when it is angered.
+Due to the ceadeus resemblance to giant whales, the ceadeus dragonborn's shape is portly. Both male and female prominent beards of fur and two massive horn that must be shaved down or overtake their eyes, leaving them blind. Luminous organs line the ceadeus dragonborn's belly as well as its appendages, which turn from blue to red when it is angered.
 
 A ceadeus dragonborn uses the dragonborn traits in the Player's Handbook, with the following traits replacing the Ability Score Increase, Speed, and Breath Weapon traits.
 
@@ -101,7 +101,7 @@ A fatalis dragonborn uses the dragonborn traits in the Player's Handbook, with t
 
 Like the ceadeus dragonborn, the jhen mohran dragonborn has a portly shape. It has an almost serpentine-like body shape with two sturdy, sharp-ended tusks. A rocky spine runs along its back. Due to the calm nature of the jhen mohran, the jhen mohran dragonborn takes little notice of slights against them, and is able to think clearly when in high stress situations.
 
-A jhen mohran dragonborn uses the dragonborn traits in the Player’s Handbook, with the following traits replacing the Ability Score Increase, Breath Weapon, and draconic resitance.
+A jhen mohran dragonborn uses the dragonborn traits in the Player’s Handbook, with the following traits replacing the Ability Score Increase, Breath Weapon, and draconic resistance.
 
 - ***Ability Score Increase.*** Your Constitution score increases by 2, and your Wisdom increases by 1.
 - ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
@@ -112,7 +112,7 @@ A jhen mohran dragonborn uses the dragonborn traits in the Player’s Handbook, 
 
 ### Draconic Ancestry: 'Jiiva
 
-Until it molts around middle age, the 'jiiva dragonborn has an otherworldly appearance. It has two eyes and six orange sensory organs running up the length of its horns. Parts of its body glow ethereal blue, making its skin appear crystalline and translucent. Its wings are frayed at the edge of the membrane and are grayish-blue in color. Following a skin- shedding, the 'jiiva dragonborn emerges with an appearance similar to a red dragonborn. Its scales are now rigid with some dark accents on many parts, such as the horns, feet, spikes, and wing edges. Its wing webbing and underside, however, is a tan colour.
+Until it molts around middle age, the 'jiiva dragonborn has an otherworldly appearance. It has two eyes and six orange sensory organs running up the length of its horns. Parts of its body glow ethereal blue, making its skin appear crystalline and translucent. Its wings are frayed at the edge of the membrane and are grayish-blue in color. Following a skin- shedding, the 'jiiva dragonborn emerges with an appearance similar to a red dragonborn. Its scales are now rigid with some dark accents on many parts, such as the horns, feet, spikes, and wing edges. Its wing webbing and underside, however, is a tan color.
 
 A 'jiiva dragonborn uses the dragonborn traits in the Player’s Handbook, with the following traits replacing the Ability Score Increase and Breath Weapon.
 
@@ -143,10 +143,10 @@ Kulve taroth dragonborn are slim and muscular with dark blue and golden scales c
 
 A kulve taroth dragonborn uses the dragonborn traits in the Player's Handbook, with the following traits replacing the Ability Score Increase and Breath Weapon traits.
 
-- ***Ability Score Increase.*** Your Charisma score increases by 2, and your Consitution score increases by 1.
+- ***Ability Score Increase.*** Your Charisma score increases by 2, and your Constitution score increases by 1.
 - ***Draconic Resistance.*** You have resistance to fire damage.
 - ***Glorious Dragonborn.*** You gain proficiency in the Persuasion skill.
-- ***Metallic Coat.*** As part of a long rest, you can produce apowerful magnetic force that attracts metals and minerals from the ground to your body and melt them with your high body temperature before letting it cool on your body, forming a metal coat. While wearing this metallic coat, your AC is 17, but your movement speed is reduced by 5 feet.  
+- ***Metallic Coat.*** As part of a long rest, you can produce a powerful magnetic force that attracts metals and minerals from the ground to your body and melt them with your high body temperature before letting it cool on your body, forming a metal coat. While wearing this metallic coat, your AC is 17, but your movement speed is reduced by 5 feet.  
 As an action you can shed the coat by entering a super heated state. Your super heated state lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra fire damage to one target when you deal damage to it with an attack or a spell. The extra fire damage equals your level.
 
 ### Draconic Ancestry: Kushala Daora
@@ -338,7 +338,7 @@ Mizufolk have have a long, slender bodies. Dark purple fur covers its chest, und
 - ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 - ***Slippery.*** You have advantage on saving throws against being slick and you are proficient in the Acrobatic skill.
 - ***Tail.*** Your tail is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal damage equal to 1d8 + your Strength modifier as bludgeoning damage.
-- ***Tool Proficiency.*** You gain profiency with calligrapher's supplies and you can use your tail as a calligraphy brush.
+- ***Tool Proficiency.*** You gain proficiency with calligrapher's supplies and you can use your tail as a calligraphy brush.
 - ***Languages.*** You can speak, read, and write Common and Draconic.
 
 ### Draconic Ancestry: Almudronfolk

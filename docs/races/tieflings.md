@@ -6,13 +6,7 @@ sidebar_position: 11
 
 Power hungry, unworthy, untrustworthy scoundrels, and abomination are many of the words that the races of the world used to describe the ancient tieflings. Created when a cult of teostra, shunned by the gods for their power hungry nature, began experimenting in an attempt to ascend by themselves. After numerous failed attempts, their leader cried out to the gods every night, begging for an answer, until he finally received one. Unknowingly under the guidance of the newly manifested Fatalis, the cultist succeeded in their endeavor, but not before killing their beloved teostra and completing the ritual by injecting its blood into their veins.
 
-These first tieflings had a more beastial look similar to the
-teostra. They had a fiery coloration, thick horns that curve
-backwards, large fangs, and a tail that ended in a clump of
-fur. The males had long flowing red hair and a beard that
-resembled the teostra's flowing mane. Female tieflings' hair
-varied in length and the hair between their horns was varying
-shades of yellow.
+These first tieflings had a more bestial look similar to the teostra. They had a fiery coloration, thick horns that curve backwards, large fangs, and a tail that ended in a clump of fur. The males had long flowing red hair and a beard that resembled the teostra's flowing mane. Female tieflings' hair varied in length and the hair between their horns was  varying shades of yellow.
 
 Though they had ascended, they had committed an unspeakable act. Killing an elder dragon during this point in history was tantamount to attacking one of the Five themselves. The tieflings were forced to live as outlanders in small communities, or as hermits, but their allure of ascension brought those who felt ignored by the gods to their ranks. The tieflings continued to experiment with other elder dragon blood on the humans that came to them, creating new tieflings of all different colors and abilities. Their continual killing of the elder dragons did not go unnoticed. The Fifth Aspect, Eldath, sensed the blasphemy and the growing threat of the tieflings. So with the help of the other 4 Aspects, the tieflings were banished to the Lower Planes and the ritual was lost to the ages.
 

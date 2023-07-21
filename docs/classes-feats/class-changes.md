@@ -25,4 +25,3 @@ If an infusion material requires attunement, then being attuned to the armor or 
 Druids may want to make use of some of the beasts found in the Monster Hunter Monster Manual. If the DM allows this, the druid can choose any beast that doesn't have an action that causes the blinded, incapacitated, or paralyzed conditions. The druid also cannot use a beasts action that summons additional creature's to its aid.
 
 Alternatively, a DM can allow the druid to choose creatures whose actions cause these conditions. If so, once the creature succeeds on a saving throw against a condition caused by the druid's wildshape, that creature is immune to that condition from the wildshape's actions for 24 hours.
-

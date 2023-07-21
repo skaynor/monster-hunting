@@ -27,7 +27,7 @@ After the reemergence, the boaboa worship the Wild Lords. It was by their grace 
 
 ### Boaboa Traits
 
-The Boaboa have the basic shape of a Grimalkyne, but exhibit much thicker, white fur and a bulkier frame. They wear crude imitations of Popo heads as masks, with the tusk's tips painted in colours that correspond to the status ailment each individual Boaboa uses in combat.
+The Boaboa have the basic shape of a Grimalkyne, but exhibit much thicker, white fur and a bulkier frame. They wear crude imitations of Popo heads as masks, with the tusk's tips painted in colors that correspond to the status ailment each individual Boaboa uses in combat.
 
 - ***Ability Score Increase.*** Your Constitution score increases by 1.
 - ***Alignment.*** Boaboa tends toward neutrality, being more focused on survival than concepts of good and evil. A sense of community can drive boaboas toward lawful alignments.
