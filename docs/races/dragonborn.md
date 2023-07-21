@@ -177,6 +177,18 @@ A magala dragonborn uses the dragonborn traits in the Player's Handbook, with th
 - ***Winged Arms.*** You have two claws on your extremely prehensile wings. These claws can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon that has the light property.
 - ***Languages.*** You can speak, read, and write Common and Draconic.
 
+### Draconic Ancestry: Malzeno
+
+Resembling the revered velkhana dragonborn in their Regal and slender physique, the malzeno dragonborn are instead adorned with dark resilient scales. Their striking Visage features two resplendent golden horns and frills which gracefully extend from either side of their neck, reminiscent if an elegant cowl. Their tail exhibits three large movable prongs at its end granting them a versatile tool to ensnare smaller prey. One of their most unique abilities lies within their wings structure which allows them to wrap them around their bodies like a cape.  
+
+A malzeno dragonborn uses the dragonborn traits in the Player’s Handbook, with the following traits replacing the Ability Score Increase, Breath Weapon, and Damage Resistance.
+
+- ***Ability Score Increase.*** Your Constitution score increases by 2, and your Strength score increases by 1.
+- ***Bloodmist Blink.*** As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.  
+When you reach 3rd level, you can make one Tail attack against a creature within 5 feet of you immediately after you use your Bloodmist Blink.
+- ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+- ***Tail.*** You can use your tail to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Strength modifier as bludgeoning damage
+
 ### Draconic Ancestry: Nakarkos
 
 Dragonborn only by name and silhouette, the nakarkos dragonborn are actually cephalopod-like humanoids. They have glowing yellow eyes and blue skin with spots of turquoise bioluminescence. The nakarkos dragonborn are able to secrete a sticky mucus from their pores, using it to adhere the bones of slain creatures to their body.

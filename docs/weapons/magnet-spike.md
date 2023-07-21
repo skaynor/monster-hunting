@@ -45,7 +45,7 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 **Magnetic Field Assault Upgrade.** You can now use a bonus action to pull yourself into an unoccupied space within 5 feet of a creature wearing metallic armor.
 
-**Magnetic Force Evade Upgrade.** When this movement causes you to leave the creature's attack range, the attack is made at disadvantage.
+**Magnetic Force Evade Upgrade.** When this movement causes you to remain in the creature's attack range, the attack is made at disadvantage.
 
 **Magnetic Bind.** When you are within 5 feet of a target affixed with a magnetic sphere, you can use an action to bind the target inside a strong magnetic field. The target must make a Constitution saving throw equal to 8 + your Strength modifier + your proficiency bonus or be incapacitated and have its movement speed reduced to 0 for 1 minute.
 

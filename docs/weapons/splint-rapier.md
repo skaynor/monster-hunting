@@ -35,7 +35,7 @@ You gain use of the following properties while the rapier is in single mode.
 
 You gain use of the following properties while the rapier is in splint mode.
 
-**Addle.** When you hit a creature with this weapon, you can muddle its vision reducing its next attack and damage roll by 1d4. You can use this property a number of times equal to your proficiency bonus.
+**Addle.** When you hit a creature with this weapon, you can muddle its vision reducing its next attack and damage roll by 1d4. You can use this property a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
 **Splint Stance.** When you switch into splint mode, choose a one of the following stances that you take until the end of your next turn (unless otherwise specified):
 - **Stymie Stance.** When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.

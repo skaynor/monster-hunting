@@ -10,6 +10,13 @@ Feats can be an important part of Dungeons and Dragons and should your Dungeon M
 I am actively adding more feats, particularly making sure there is at least one unique feat per weapon. If you have a homebrew feat you want to add just bring it up, I'll probably allow it.
 :::
 
+## Arcane Adaptation
+
+Your natural arcane ability allows you to improvise and adapt to your surroundings.
+
+- Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
+- You can cast a spell that requires a spell slot with both an action and a bonus action on the same turn as long as the bonus action spell does not require a spell attack roll, saving throw, or deals damage.
+
 ## Armored Gunner
 
 *Prerequisite: Strength 13 or higher*
@@ -17,6 +24,16 @@ I am actively adding more feats, particularly making sure there is at least one 
 - As a bonus action, you can attach or detach a shield to your heavy bowgun.
 - While the shield is attached, you gain a +2 bonus to your AC, your movement speed is halved, and being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
 - When you attack a creature with your heavy bowgun, and they are within the weapon's normal range, you can choose to use Strength instead of Dexterity for its attack and damage bonuses.
+
+## Bastion
+
+*Prerequisite: Strength 13 or higher*
+
+If you are subjected to an effect or action originating from a creature or object that does not spread around corners (for example, a red dragon's breath weapon, the lightning bolt spell, or the thunderwave spell), you can use your reaction to employ your shield or a weapon with the guard property, positioning it between yourself and the effect or action. When you do, you gain the following benefits:
+
+- You can make a Strength saving throw instead of the original saving throw.
+- Creatures in a 90-foot cone behind you have total cover from the effect.
+- You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest
 
 ## Bomb Specialist
 

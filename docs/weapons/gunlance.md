@@ -43,7 +43,7 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 This weapon retains all previous rarities weapon properties in addition to the following:
 
-**Blast Dash.** While wielding this weapon you can take the dash action as a bonus action. You can use this property a number of time equal to your proficiency bonus.
+**Blast Dash.** While wielding this weapon you can take the dash action as a bonus action. You can use this property a number of time equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
 **Charged Shelling.** When you make a ranged weapon attack with your shells you can expend two extra shells to have the target make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier. On a failed save the target takes an extra 2d10 fire damage and is knocked prone. On a successful save the target takes 1d10 fire damage and isn't knocked prone.
 
